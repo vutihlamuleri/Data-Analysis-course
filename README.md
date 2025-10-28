@@ -1,0 +1,2 @@
+This is analysis of data from Bright Coffee shop sales. It was grouped by time brackets, product category, store loacation to analyse the best and worst performing products, the time the store is perfroming well and worst. The persormance of each product in different time buckets and the best and worst perfromin stores. 
+Recommendations were then made to improve the performance of the coffee shop. 
